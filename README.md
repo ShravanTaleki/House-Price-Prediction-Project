@@ -1,5 +1,5 @@
 ## ShravanTaleki.devtern
-House Price Prediction Project.
+House Price Prediction Project
 
 This project focuses on predicting house prices using Python and machine learning techniques. It begins with data preprocessing steps to handle missing values and encode categorical variables. Exploratory Data Analysis (EDA) is conducted to understand the distribution of sale prices and explore correlations between features using visualizations like histograms and correlation matrices. Key insights from EDA guide feature selection and engineering processes.
 
