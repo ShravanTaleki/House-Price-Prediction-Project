@@ -17,6 +17,7 @@ Linear Regression Model for house price prediction.
 Evaluation Metrics including RMSE and R² Score.
 
 
+
 Technologies Used
 
 Python 
