@@ -1,4 +1,5 @@
 House Price Prediction Project
+
 Overview
 
 This project focuses on predicting house prices using Python and machine learning techniques. It begins with data preprocessing steps to handle missing values and encode categorical variables. Exploratory Data Analysis (EDA) is conducted to understand the distribution of sale prices and explore correlations between features using visualizations like histograms and correlation matrices. Key insights from EDA guide feature selection and engineering processes.
@@ -8,6 +9,20 @@ The predictive model is built using Linear Regression, leveraging scikit-learn f
 Features
 
 Extensive EDA with histograms, correlation heatmaps, and scatter plots.
+
 Feature Selection based on statistical insights.
+
 Linear Regression Model for house price prediction.
+
 Evaluation Metrics including RMSE and R² Score.
+
+
+Technologies Used
+
+Python 
+
+Pandas, NumPy
+
+Scikit-learn (Linear Regression, Feature Selection)
+
+Matplotlib, Seaborn (for Data Visualization)
